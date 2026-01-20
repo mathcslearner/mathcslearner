@@ -6,7 +6,7 @@ I'm passionate about mathematics, data, software and machine learning, especiall
 
 - I'm currently working on: A data analytics platform for soccer clubs
 
-- I'm currently learning about: Supervised Machine Learning
+- I'm currently learning about: Supervised Machine Learning, Spring Boot
 
 - I want to learn more about: Interpreters, Deep Learning, Natural Language Processing
 

@@ -4,7 +4,7 @@ Hi, my name is Ming Zhe and I'm an Honours Math student at the University of Wat
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
-- I'm currently working on: A data analytics platform for soccer clubs
+- I'm currently working on: A semantic book recommender application using ML
 
 - I'm currently learning about: Supervised Machine Learning, Spring Boot
 

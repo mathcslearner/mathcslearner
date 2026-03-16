@@ -4,7 +4,7 @@ Hi, my name is Ming Zhe and I'm an Honours Math student at the University of Wat
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
-- I'm currently working on: A collaborative code editing platform
+- I'm currently working on: A workflow automation platform
 
 - I'm currently learning about: Machine Learning, Backend System Design
 

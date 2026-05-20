@@ -4,11 +4,11 @@ Hi, my name is Ming Zhe and I'm a Computer Science + Combinatorics and Optimizat
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
-- I'm currently working on: A workflow automation platform
+- I'm currently working on: MQTT Broker implementation in C
 
-- I'm currently learning about: Machine Learning, Backend System Design
+- I'm currently learning about: Machine Learning / Deep Learning, Backend System Design
 
-- I want to learn more about: Interpreters + Compilers, Deep Learning
+- I want to learn more about: Systems Programming, Software Internals, Interpreters + Compilers
 <!--
 **mathcslearner/mathcslearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

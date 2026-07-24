@@ -4,7 +4,7 @@ Hi, my name is Ming Zhe and I'm a Computer Science student at the University of 
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
-- I'm currently working on: MQTT Broker implementation in C
+- I'm currently working on: TBD
 
 - I'm currently learning about: Machine Learning / Deep Learning, Backend System Design
 

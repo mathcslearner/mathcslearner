@@ -4,11 +4,11 @@ Hi, my name is Ming Zhe and I'm a Computer Science student at the University of 
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
-- I'm currently working on: TBD
+- I'm currently working on: Tree-walk interpreter
 
-- I'm currently learning about: Machine Learning / Deep Learning, Backend System Design
+- I'm currently learning about: Machine Learning / Deep Learning, Backend System Design, Interpreters + Compilers
 
-- I want to learn more about: Systems Programming, Software Internals, Interpreters + Compilers
+- I want to learn more about: Systems Programming, Software Internals
 <!--
 **mathcslearner/mathcslearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

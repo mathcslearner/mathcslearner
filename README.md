@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Ming Zhe and I'm a Computer Science + Combinatorics & Optimization student at the University of Waterloo, originally from Montreal, QC.
+Hi, my name is Ming Zhe and I'm a CS + Math student at the University of Waterloo.
 
 I'm passionate about mathematics, data, software and machine learning, especially how these fields intersect together to drive modern technology systems. 
 
